@@ -15,7 +15,7 @@ const Hero = () => {
                         Amazingly simple
                     </h1>
                     <p className='max-w-400 mb-14 body-1 max-md:mb-10'>we design Xora AI video Editor to be an easy to use, quick to learn, and surprisingly powerful.</p>
-                    <LinkScroll to='feature' offset={-100} spy smooth>
+                    <LinkScroll to='features' offset={-100} spy smooth>
                         <Button icon="/images/zap.svg">
                         Try it now
                         </Button>
